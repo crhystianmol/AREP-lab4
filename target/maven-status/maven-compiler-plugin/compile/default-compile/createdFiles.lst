@@ -1,2 +1,2 @@
-edu\escuelaing\arep\dock\App.class
-edu\escuelaing\arep\dock\SparkWebServer.class
+edu\escuelaing\arep\virtual\App.class
+edu\escuelaing\arep\virtual\docker\SparkWebServer.class

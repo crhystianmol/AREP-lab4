@@ -1,4 +1,4 @@
-package edu.escuelaing.arep.dock;
+package edu.escuelaing.arep.virtual;
 
 /**
  * Hello world!
