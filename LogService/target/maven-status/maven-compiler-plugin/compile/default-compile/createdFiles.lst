@@ -1,0 +1,4 @@
+edu\escuelaing\arep\virtual\docker\persistencia\impl\ConetionDB.class
+edu\escuelaing\arep\virtual\docker\persistencia\MensajePersistencia.class
+edu\escuelaing\arep\virtual\docker\model\Mensaje.class
+edu\escuelaing\arep\virtual\docker\SparkWebServer.class
