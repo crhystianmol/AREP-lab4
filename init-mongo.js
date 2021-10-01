@@ -3,8 +3,8 @@ db.createUser(
         user:"crhystianmol",
         pwd:"3124037984",
         roles:[{
-            role:"readWrite",
-            db:"LabArep4"
+            role:"readWrite1",
+            db:"myFirstDatabase"
         }]
     }
 )

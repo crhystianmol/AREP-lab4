@@ -25,7 +25,7 @@ services:
       image: mongo:latest
       container_name: db
       environment:
-        MONGO_INITDB_DATABASE: LabArep4
+        MONGO_INITDB_DATABASE: myFirstDatabase
         MONGO_INITDB_ROOT_USERNAME: crhystianmol
         MONGO_INITDB_ROOT_PASSWORD: 3124037984
       volumes:
